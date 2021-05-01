@@ -1,7 +1,6 @@
 #import turtle
 import turtle
 
-
 #creates game window, capital S
 wn = turtle.Screen()
 #titles game
